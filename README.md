@@ -7,4 +7,6 @@ This template should help get you started developing with Vue 3 in Vite. The tem
 - [VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=johnsoncodehk.volar)
 
 
-<h1>Projeto IMC que foi feito em REACT + Typescript com a mesma finalidade, mas utilizando framework diferente, que no caso é o Vue</h1>
+<h1>Projeto IMC - VueJS</h1>
+
+<p>Foi um projeto criado em React (Typescript), porém resolvi fazer o mesmo utilizando um framework diferente, que no caso é o Vue!</p>
