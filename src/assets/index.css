@@ -110,6 +110,10 @@ button {
   cursor: pointer;
 }
 
+h1 {
+  font-size: 2rem;
+}
+
 .card > .icon:first-child {
   font-size: 2rem;
   width: 50px;
